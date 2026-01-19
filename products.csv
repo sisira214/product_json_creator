@@ -1,0 +1,51 @@
+product_id,product_name,product_description,brand_name,color,price,rating,quantity,product_type
+P001,Smartphone X,Latest 5G smartphone with OLED display,Samsung,Black,799,4.6,12,smartphone
+P002,Smartphone Y,Mid-range smartphone with dual cameras,OnePlus,Blue,499,4.3,7,smartphone
+P003,Smartphone Z,Budget phone with great battery life,Xiaomi,Gray,299,4.0,20,smartphone
+P004,Laptop Pro,High performance laptop with 16GB RAM,Dell,Silver,1299,4.7,5,laptop
+P005,Wireless Earbuds,Noise cancelling earbuds with 24hr battery,Sony,White,149,4.5,25,earbuds
+P006,Smartwatch Active,Fitness tracking smartwatch,Garmin,Black,249,4.2,10,smartwatch
+P007,Tablet Air,10.5 inch tablet with stylus support,Apple,Gold,699,4.8,8,tablet
+P008,Smartphone Elite,Flagship with triple camera and 1TB storage,Apple,Silver,1399,4.9,3,smartphone
+P009,Laptop Lite,Lightweight laptop ideal for students,HP,Blue,699,4.4,15,laptop
+P010,Smartphone Basic,Entry-level smartphone for daily use,Nokia,Black,199,3.8,30,smartphone
+P011,Noise Buds,Wireless earbuds with deep bass,Noise,White,99,4.1,40,earbuds
+P012,Smartwatch Fit,Health tracking smartwatch with GPS,Fitbit,Black,179,4.3,18,smartwatch
+P013,Laptop Gamer,Powerful gaming laptop with RTX GPU,Asus,Gray,1599,4.9,4,laptop
+P014,Tablet Note,11-inch tablet with pen support,Lenovo,Silver,499,4.2,9,tablet
+P015,Smartphone Max,6.7-inch OLED with quad cameras,Samsung,Blue,999,4.7,6,smartphone
+P016,Smartphone Neo,Stylish smartphone with AMOLED display,Realme,Green,399,4.1,22,smartphone
+P017,Smartwatch Luxe,Premium smartwatch with sapphire glass,Huawei,Gold,299,4.4,11,smartwatch
+P018,Laptop Studio,2-in-1 touchscreen laptop,Microsoft,Silver,1399,4.6,7,laptop
+P019,Tablet Mini,Compact tablet for reading and travel,Amazon,Black,129,4.0,28,tablet
+P020,Wireless Headphones,Over-ear Bluetooth headphones,JBL,Black,199,4.5,16,headphones
+P021,Smartphone Alpha,5G smartphone with 108MP camera,Xiaomi,Blue,649,4.6,9,smartphone
+P022,Smartphone Lite,Compact phone with long battery life,Oppo,White,349,4.0,17,smartphone
+P023,Laptop Air,Ultra-thin laptop with M2 chip,Apple,Gray,1499,4.9,5,laptop
+P024,Smartwatch Runner,GPS smartwatch for athletes,Polar,Red,229,4.3,13,smartwatch
+P025,Tablet Plus,12-inch display tablet with pen,Microsoft,Platinum,899,4.5,6,tablet
+P026,Wireless Neckband,Flexible neckband with noise isolation,Boat,Blue,79,4.0,35,earbuds
+P027,Smartphone Edge,Curved screen smartphone,Moto,Black,549,4.2,10,smartphone
+P028,Laptop Pro X,Creator-focused laptop with OLED display,Asus,Silver,1899,4.8,3,laptop
+P029,Tablet Studio,Windows tablet for productivity,Microsoft,Gray,799,4.4,7,tablet
+P030,Smartwatch Sense,AI health tracking smartwatch,Fitbit,White,259,4.6,12,smartwatch
+P031,Wireless Earbuds 2,Next-gen earbuds with ANC,Sony,Black,179,4.7,14,earbuds
+P032,Smartphone Ultra,Flagship with AI camera,Nokia,Silver,899,4.5,5,smartphone
+P033,Laptop Business,Business laptop with fingerprint reader,Lenovo,Black,999,4.4,9,laptop
+P034,Tablet View,Entertainment tablet with FHD screen,Xiaomi,Gold,249,4.1,18,tablet
+P035,Smartwatch Sport,Water-resistant smartwatch,Samsung,Gray,199,4.2,20,smartwatch
+P036,Wireless Headset,Gaming headset with surround sound,Logitech,Red,129,4.3,15,headphones
+P037,Smartphone Mini,Compact phone for single-hand use,Apple,Blue,599,4.5,10,smartphone
+P038,Laptop Edge,Convertible laptop with touchscreen,Acer,Silver,849,4.3,8,laptop
+P039,Smartwatch Prime,Premium smartwatch with LTE,Huawei,Black,329,4.5,7,smartwatch
+P040,Tablet Lite,Budget tablet with Wi-Fi connectivity,Lenovo,Black,199,3.9,25,tablet
+P041,Wireless Pods,Compact wireless earbuds,Realme,Yellow,59,3.8,40,earbuds
+P042,Smartphone Nova,Affordable 5G smartphone,Vivo,Purple,449,4.2,14,smartphone
+P043,Laptop Creator,High-end workstation for creators,Dell,Silver,1799,4.8,5,laptop
+P044,Smartwatch Band,Fitness tracker with heart-rate monitor,Mi,Black,79,4.1,30,smartwatch
+P045,Tablet Max,Large-screen tablet for media editing,Apple,Space Gray,1099,4.9,4,tablet
+P046,Wireless Soundbar,Home audio soundbar system,Bose,Black,299,4.7,6,headphones
+P047,Smartphone Core,4G phone with dual SIM,Infinix,Green,229,3.9,22,smartphone
+P048,Laptop Flex,2-in-1 laptop with stylus support,HP,Blue,999,4.6,7,laptop
+P049,Tablet Go,Portable tablet with LTE support,Microsoft,Silver,599,4.4,8,tablet
+P050,Smartphone Titan,High-end smartphone with 200MP camera,Honor,Black,1099,4.8,3,smartphone
