@@ -42,7 +42,7 @@ Make sure you have Python (3.12) installed.
    ```bash
    git clone https://github.com/sisira214/product_json_creator.git
    cd product_json_creator
-````
+
 
 2. **Create & activate a virtual environment**
 
